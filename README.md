@@ -17,7 +17,7 @@ In this assignment, you will repeat the steps you followed in the tutorial using
 3. **Upload the Results to GitHub**:
    - **Save the Figure**: After completing the analysis, download the correlation plot figure from your notebook or Colab.
    - **Add the Figure to GitHub**: Upload the figure to GitHub using the "Add file" option.
-   - **Add Your Analysis**: Write your analysis in a `.txt` file (or as a markdown file), describing the correlation you observed, and upload it to your repository.
+   - **Add Your Analysis**: Write your analysis in a `analysis.txt` file (or as a markdown file), describing the correlation you observed, and upload it to your repository.
    - **Add Your Code**: Save your code as a Python script (`main.py`) and upload it to GitHub.
 
 4. **Submit**:

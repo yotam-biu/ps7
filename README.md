@@ -62,7 +62,7 @@ Your GitHub repository must contain:
 
 - ✔ `main.py`  
 - ✔ `analysis.txt` (or `.md`)  
-- ✔ Correlation plot figure (e.g., `correlation.png`)
+- ✔ Correlation scatter plot figure (e.g., `correlation.png`)
 
 No automated checks are required this week.
 

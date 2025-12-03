@@ -20,9 +20,8 @@ Follow the steps you practiced in class:
 - Load and inspect the data  
 - Select several features  
 - Create **histograms**  
-- Create **scatter plots**  
-- Compute a **correlation matrix**  
-- Generate and save a **correlation plot** (heatmap or similar)
+- Create **scatter plots**   
+- Generate and save a **correlation scatter plot**
 
 ---
 

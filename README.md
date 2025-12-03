@@ -26,14 +26,10 @@ Follow the steps you practiced in class:
 ---
 
 ## 3. Upload Your Results to GitHub
-Your repository must include:
-
-1. **Correlation plot figure**  
-2. **Analysis file** (`analysis.txt` or `analysis.md`)  
-   - Write 1–2 paragraphs describing the correlations you observed  
-3. **Python script** named `main.py` containing your code
-
-Upload files using **“Add file → Upload files”** on GitHub.
+- Save the Figure: After completing the analysis, download the correlation plot figure from your notebook or Colab.
+- Add the Figure to GitHub: Upload the figure to GitHub using the "Add file" option.
+- Add Your Analysis: Write your analysis in a analysis.txt file (or as a markdown file), describing the correlation you observed, and save it in this GitHub repository.
+- Add Your Code: Save your code as a Python script (main.py) in this GitHub repository.
 
 ---
 
@@ -41,13 +37,20 @@ Upload files using **“Add file → Upload files”** on GitHub.
 
 You are encouraged to use AI tools (ChatGPT, Copilot, Gemini, etc.) to **improve your figure** by generating enhanced plotting code.
 
-Example improvements you can ask AI to help you with:
+### Example improvements you can ask AI to help you with:
 
-- Use a cleaner or more readable **color palette**  
-- Add **correlation value labels** inside the heatmap  
-- Improve **font sizes**, spacing, or layout  
+- Improve **font sizes**, spacing, or layout for readability  
 - Create **scatter plots with regression lines**  
 - Design a custom **matplotlib style** for consistent aesthetics  
+- Use **interactive platforms** such as *Plotly*  
+- Use **nicer visual styles** such as *Seaborn*  
+- Create **additional useful plots**, such as:  
+  - density plots  
+  - pairplots  
+  - violin plots  
+  - boxplots  
+  - distribution comparisons  
+  - or any other visualization that adds insight  
 
 (*You only need one improvement — the purpose is to practice using AI as a coding assistant.*)
 
